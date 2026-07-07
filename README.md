@@ -1,1 +1,14 @@
 # agents
+
+Agent skills, maybe other stuff later
+
+## Skills
+
+| Skill | Description | Notes |
+| --- | --- | --- |
+| `caveman` | Ultra-compressed communication mode. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills). |
+| `defuddle` | Extract clean markdown from web pages. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/defuddle). |
+| `json-canvas` | Create and edit JSON Canvas files. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/json-canvas). |
+| `obsidian-bases` | Create and edit Obsidian Bases. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-bases). |
+| `obsidian-cli` | Interact with Obsidian vaults via CLI. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-cli). |
+| `obsidian-markdown` | Create and edit Obsidian Flavored Markdown. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-markdown). |
