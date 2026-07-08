@@ -9,6 +9,7 @@ Agent skills, maybe other stuff later
 | `caveman` | Ultra-compressed communication mode. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills). |
 | `defuddle` | Extract clean markdown from web pages. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/defuddle). |
 | `domain-modeling` | Build and sharpen a project's domain model. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills/tree/main/skills/engineering/domain-modeling). |
+| `grill-me` | A relentless interview to sharpen a plan or design. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills/tree/main/skills/productivity/grill-me). |
 | `grill-with-docs` | Relentless interview that creates docs as you go. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills/tree/main/skills/engineering/grill-with-docs). |
 | `grilling` | Grill the user relentlessly about a plan or design. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills/tree/main/skills/productivity/grilling). |
 | `json-canvas` | Create and edit JSON Canvas files. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/json-canvas). |
