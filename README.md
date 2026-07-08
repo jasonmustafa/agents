@@ -16,3 +16,4 @@ Agent skills, maybe other stuff later
 | `obsidian-bases` | Create and edit Obsidian Bases. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-bases). |
 | `obsidian-cli` | Interact with Obsidian vaults via CLI. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-cli). |
 | `obsidian-markdown` | Create and edit Obsidian Flavored Markdown. | Originally from [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills/tree/main/skills/obsidian-markdown). |
+| `to-prd` | Turn current conversation into a PRD. | Originally from [Matt Pocock's skills repo](https://github.com/mattpocock/skills/tree/main/skills/engineering/to-prd). |
